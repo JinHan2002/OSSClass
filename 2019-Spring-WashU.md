@@ -42,7 +42,7 @@ By the end of the semester, the final project with client feedback incorporated 
   * You may not be your own client
   * Your client and their satisfaction is greatly important
 * Teams will be self-formed by the students and will consist of five to seven students
-  * Each member of the team will recieve the same grade for the project as a whole
+  * Each member of the team will receive the same grade for the project as a whole
   * Choose your team mates wisely - ensure coverage of important skills (code and non-code)
 
 Grading for the project will be based on effective execution of the following SDLC aspects:
